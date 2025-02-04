@@ -48,4 +48,4 @@ Passionné par le développement web et les nouvelles technologies, je crée des
 ## 📫 Me contacter
 
 - **Email** : [mandra.antoine@gmail.com](mailto:mandra.antoine@gmail.com)  
-- **LinkedIn** : [linkedin.com/in/antoine-mandra](www.linkedin.com/in/antoine-mandra-401147240)  
+- **LinkedIn** : [linkedin.com/in/antoine-mandra](https://www.linkedin.com/in/antoine-mandra-401147240)  
